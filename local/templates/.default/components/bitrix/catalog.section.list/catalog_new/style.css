@@ -1,0 +1,36 @@
+.bx_sitemap .bx_sitemap_ul li:before {
+    content: '' !important
+}
+
+.bx_sitemap .bx_sitemap_li_title{
+
+    display: inline-block;
+    color: #00569C;
+    vertical-align: top;
+    font-weight: normal;
+    line-height: 13px;
+    margin-bottom: 10px;
+
+
+}
+.bx_sitemap .bx_sitemap_li_title a{
+    color: #00569C;
+    white-space: nowrap;
+    text-decoration: none;
+    font-size: 18px;
+}
+.bx_sitemap .bx_sitemap_li_title a:hover{
+    text-decoration: none
+    cursor:pointer;
+}
+.bx_sitemap .bx_sitemap_li_title span{
+    font-size: 11px;
+}
+
+/*Главные элементы каталога*/
+.bx_sitemap .bx_sitemap_ul li{
+    padding: 20px 30px;
+    line-height: 14px;
+    border: 1px solid gainsboro;
+    list-style: none;
+}
