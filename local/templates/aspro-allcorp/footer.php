@@ -130,7 +130,7 @@
 									"CHILD_MENU_TYPE" => "",
 									"USE_EXT" => "N",
 									"DELAY" => "N",
-									"ALLOW_MULTI_SELECT" => "N"
+									"ALLOW_MULTI_SELECT" => "Y"
 									),
 									false
 								);?>
